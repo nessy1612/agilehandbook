@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: "Agile Handbook"
+title: Agile Handbook
 
 # Your name to show in the footer
-author: "Vanessa Tudor"
+author: Vanessa Tudor 
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "TEST"
+  About Me: Test test 
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
